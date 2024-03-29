@@ -1,5 +1,9 @@
 /* Stylesheet for my personal SpaceHey profile https://spacehey.com/hxndrik */
 
+body {
+    background: linear-gradient(180deg, rgba(36, 39, 35, 1) 100%, rgba(14, 34, 22, 1) 100%);
+}
+
 nav {
-    background: linear-gradient(180deg, rgba(162, 227, 255, 0.2) 0%, rgb(78, 187, 163, 1) 100%);
+    background: linear-gradient(180deg, rgba(162, 227, 255, 0.2) 0%, rgba(78, 187, 163, 1) 100%);
 }
